@@ -154,3 +154,31 @@ a {
     font-weight: 700;
 
 }
+
+.text-draw{
+    box-sizing: border-box;
+    /* border: 1px solid; */
+    width: 20%;
+}
+
+.text-inside{
+    text-align: justify;
+}
+
+.text-head{
+    text-align: center;
+}
+
+.draw-som{
+    align-items: center;
+}
+
+.text-shift{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.text-down{
+    /* box-shadow: 10px 5px 5px cornflowerblue; */
+}
